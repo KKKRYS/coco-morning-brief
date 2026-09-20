@@ -1,0 +1,8 @@
+{
+  "site_domain": "coco-morning-brief.surge.sh",
+  "timezone": "Asia/Shanghai",
+  "target_publish_time": "07:30",
+  "site_root": "public",
+  "archive_root": "public/archive",
+  "latest_file": "public/index.html"
+}
