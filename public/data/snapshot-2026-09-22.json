@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-22",
+  "timezone": "Asia/Shanghai",
+  "regime": "selective-risk-on",
+  "signals": {
+    "fundamental": "positive",
+    "earnings": "proxy-positive-data-gap",
+    "price_trend": "positive",
+    "breadth": "improving",
+    "flow": "data-gap",
+    "valuation": "rich",
+    "macro": "mixed"
+  },
+  "market": {
+    "sox_change_pct": 4.3,
+    "us10y_pct": 4.96,
+    "us2y_pct": 4.76,
+    "fed_target_range": "3.75-4.00",
+    "fed_october_hike_probability_pct_approx": 56,
+    "gold_spot_usd": 4342.41,
+    "silver_spot_usd_approx": 66.3,
+    "brent_nov_usd": 102.06,
+    "wti_nov_usd": 93.65
+  },
+  "etf159801": {
+    "reference_date": "2026-09-22",
+    "delayed_intraday_price_approx": 1.184,
+    "previous_close": 1.148,
+    "ma5_through_2026_09_21": 1.1170,
+    "ma10_through_2026_09_21": 1.0980,
+    "ma20_through_2026_09_21": 1.1113,
+    "flow": null,
+    "flow_status": "data-gap"
+  },
+  "backtest": {
+    "status": "sample-accumulation-started",
+    "forward_returns": {
+      "5d": null,
+      "10d": null,
+      "20d": null
+    },
+    "max_drawdown": null
+  }
+}
